@@ -9,31 +9,31 @@ const Navbar = () => {
       <div className="navbar-links">
         <div>
           <NavLink to="/Men" end>
-            Men
+          Masala chai
           </NavLink>
         </div>
         <div>
           <NavLink to="/Women" end>
-            Women
+          Ginger chai 
           </NavLink>
         </div>
         <div>
           <NavLink to="/kids" end>
-            Kids
+          Cardamom chai
           </NavLink>
         </div>
         <div>
           <NavLink to="/New-&-featured" end>
-            New & featured
+          Tulsi Chai
           </NavLink>
         </div>
         <div>
           <NavLink to="/Gifts" end>
-            Gifts
+          Irani Chai 
           </NavLink>
         </div>
       </div>
-      <div className="navbar-logo">Logo</div>
+      <div className="navbar-logo"></div>
       <div className="navbar-user-info">
         <i className="fas fa-search"></i>
         <i className="fas fa-shopping-cart"></i>

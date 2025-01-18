@@ -5,42 +5,42 @@ const NewCollection = () => {
   const cards_info = [
     {
       image:
-        "https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "title 1",
-      subTitle: "sub_title",
-      price: 1,
+        "https://patidarrajwadichai.com/wp-content/uploads/2024/07/Masala-Chai-Benefits-856x500.jpg",
+      title: "masala chai",
+      subTitle: "A popular choice on cold mornings",
+      price: 1.0,
       id : 1
     },
     {
       image:
-        "https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "title 2",
-      subTitle: "sub_title",
-      price: 1,
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrLEX5T-lWsZBtHm98SrRWHoDigAaDIzP5CRNCDR7WgoY6tvzC2SeGDZ_C7zTs974gjo&usqp=CAU",
+      title: "ginger chai",
+      subTitle: "popular hot tea made with grated ginger",
+      price: 1.4,
       id : 2
     },
     {
       image:
-        "https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "title 3",
-      subTitle: "sub_title",
-      price: 1,
+        "https://jyyna.co.uk/wp-content/uploads/2024/08/cup-of-masala-chai.webp",
+      title: "cardamom chai",
+      subTitle: "Also known as Elaichi Chai",
+      price: 1.7,
       id : 3
     },
     {
       image:
-        "https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "title 4",
-      subTitle: "sub_title",
-      price: 1,
+        "https://assets.bonappetit.com/photos/57acca021b334044149751b5/16:9/w_2560%2Cc_limit/bas-best-masala-chai.jpg",
+      title: "Bombay Cutting Chai",
+      subTitle: "A modified masala chai",
+      price: 2.0,
       id : 4
     },
     {
       image:
-        "https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "title 5",
-      subTitle: "sub_title",
-      price: 1,
+        "https://shivanilovesfood.com/wp-content/uploads/2022/08/Chai-6.jpg",
+      title: "Tulsi Chai",
+      subTitle: "made with holy basil, an herb",
+      price: 3.0,
       id : 5
     },
   ];
