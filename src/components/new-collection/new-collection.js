@@ -5,42 +5,42 @@ const NewCollection = () => {
   const cards_info = [
     {
       image:
-        "https://patidarrajwadichai.com/wp-content/uploads/2024/07/Masala-Chai-Benefits-856x500.jpg",
-      title: "masala chai",
-      subTitle: "A popular choice on cold mornings",
+        "https://www.tibertaber.com/cdn/shop/files/TiberTaberBabyBoyCreamSilkbandhgalaTTB23_085_3.jpg?v=1701842604&width=500",
+      title: "Kid section",
+      subTitle: "All types of kid wear",
       price: 1.0,
       id : 1
     },
     {
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrLEX5T-lWsZBtHm98SrRWHoDigAaDIzP5CRNCDR7WgoY6tvzC2SeGDZ_C7zTs974gjo&usqp=CAU",
-      title: "ginger chai",
-      subTitle: "popular hot tea made with grated ginger",
-      price: 1.4,
+        "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/31100584/2024/12/12/8b35382d-87fb-4784-a95b-95d52323a92f1733983657189-Mr-Bowerbird-Men-Blazers-2351733983656495-1.jpg",
+      title: "Men section",
+      subTitle: "casual wear, formal wear, sportswear",
+      price: 1.4-6,
       id : 2
     },
     {
       image:
-        "https://jyyna.co.uk/wp-content/uploads/2024/08/cup-of-masala-chai.webp",
-      title: "cardamom chai",
-      subTitle: "Also known as Elaichi Chai",
-      price: 1.7,
+        "https://img.faballey.com/images/Product/JMP00019Z/d3.jpg",
+      title: "women section",
+      subTitle: "Lehengas, and Indo-Western gowns ",
+      price: 1.7-9,
       id : 3
     },
     {
       image:
-        "https://assets.bonappetit.com/photos/57acca021b334044149751b5/16:9/w_2560%2Cc_limit/bas-best-masala-chai.jpg",
-      title: "Bombay Cutting Chai",
-      subTitle: "A modified masala chai",
-      price: 2.0,
+        "https://manyavar.scene7.com/is/image/manyavar/SHOS220D_303-Beige_101.0527_29-07-2024-21-28:283x395",
+      title: "treditional section",
+      subTitle: "sarees, kurtas, and sherwanis",
+      price: 2.0-7,
       id : 4
     },
     {
       image:
-        "https://shivanilovesfood.com/wp-content/uploads/2022/08/Chai-6.jpg",
-      title: "Tulsi Chai",
-      subTitle: "made with holy basil, an herb",
-      price: 3.0,
+        "https://images.asos-media.com/products/pullbear-contrast-stitch-wide-leg-cargo-in-brown/207550040-1-brown/?$n_480w$&wid=476&fit=constrain",
+      title: "Gen-Z section",
+      subTitle: " large sweatshirts, baggy pants, and loose-fitting t-shirts,",
+      price: 2.0-5,
       id : 5
     },
   ];

@@ -9,27 +9,27 @@ const Navbar = () => {
       <div className="navbar-links">
         <div>
           <NavLink to="/Men" end>
-          Masala chai
+          Kid Section
           </NavLink>
         </div>
         <div>
           <NavLink to="/Women" end>
-          Ginger chai 
+          Men Section 
           </NavLink>
         </div>
         <div>
           <NavLink to="/kids" end>
-          Cardamom chai
+          Women Section
           </NavLink>
         </div>
         <div>
           <NavLink to="/New-&-featured" end>
-          Tulsi Chai
+          Tradition Section
           </NavLink>
         </div>
         <div>
           <NavLink to="/Gifts" end>
-          Irani Chai 
+          Gen-Z 
           </NavLink>
         </div>
       </div>
